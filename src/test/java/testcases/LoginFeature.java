@@ -21,6 +21,13 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.AfterSuite;
 
+/**
+ * 
+ * 
+ * @author fakhr
+ *
+ */
+
 public class LoginFeature {
 	private	WebDriver driver;
 	LoginPage lp;
