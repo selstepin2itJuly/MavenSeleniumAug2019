@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test" preserve-order="false">
+    <classes>
+      <class name="testcases.LoginFeature"/>
+      <class name="testcases.LoginFeaturePartTwo"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
